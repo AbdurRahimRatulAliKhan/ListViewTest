@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">List View Test</string>
+
+    <string name="name">  This is a name </string>
+    <string-array name="dist">
+
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+    </string-array>
+</resources>
