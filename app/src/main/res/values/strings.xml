@@ -55,4 +55,40 @@
         <item>Dhaka</item>
         <item>Dhaka</item>
     </string-array>
+
+
+    <string name="Dhaka">
+
+        Dhaka (/ˈdɑːkə/ DAH-kə or /ˈdækə/ DAK-ə; Bengali: ঢাকা, pronounced [ɖʱaka]);
+        formerly known as Dacca[13] is the capital and largest city of Bangladesh.
+        It is one of the world\'s largest cities, with a population of 18.89 million
+        people in the Greater Dhaka Area.[14][7][15] It is also the 4th most densely
+        populated city in the world. Dhaka is the economic, political and cultural
+        center of Bangladesh. It is one of the major cities of South Asia, the largest
+        city in Eastern South Asia and among the Bay of Bengal countries; and one of the
+        largest cities among OIC countries. As part of the Bengal plain, the city is bounded
+        by the Buriganga River, Turag River, Dhaleshwari River and Shitalakshya River. The city is
+        located in an eponymous district and division.
+
+The area of Dhaka has been inhabited since the first millennium. The city rose to prominence in the 17th
+        century as a provincial capital and commercial center of the Mughal Empire in South Asia. Dhaka was
+        the capital of Mughal Bengal for 75 years. As the center of the muslin trade in Bengal, it was one of
+        the most prosperous cities in the Indian subcontinent. The medieval city was named in honor of the Mughal
+        emperor Jahangir and hosted the seat of the Mughal Subahdar (governor), Naib Nazims and Dewans (prime ministers).
+        Medieval Dhaka's glory peaked in the 17th and 18th centuries, when it was home to merchants from across Eurasia.
+        The Mughals decorated the city with well-laid out gardens, tombs, mosques, palaces and forts. The city was once
+        called the Venice of the East.[16] Under the British Empire, the city saw the introduction of electricity, railways,
+        cinemas, Western-style universities and colleges and a modern water supply. It became an important administrative and
+        educational center in Eastern Bengal and Assam after 1905.[17] In 1947, after ending of British rule, it became the
+        administrative capital of the East Pakistan. It was declared as the legislative capital of Pakistan in 1962. In 1971,
+        it became the capital of an independent Bangladesh.
+        Article 5 of the Constitution of Bangladesh declares Dhaka as the capital of the republic.[18]
+    </string>
+
+    <string name="Khulna">
+
+        Processing.....
+    </string>
+
+
 </resources>

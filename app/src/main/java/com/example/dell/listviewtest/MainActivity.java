@@ -1,5 +1,6 @@
 package com.example.dell.listviewtest;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -30,7 +31,16 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String selected = dist [position];
-                Toast.makeText(MainActivity.this, "" + selected, Toast.LENGTH_SHORT).show();
+
+                //Toast.makeText(MainActivity.this, "" + selected, Toast.LENGTH_SHORT).show();
+
+
+                //go details
+                Intent intent = new Intent(MainActivity. this, DetailsActivity.class);
+                intent.putExtra("dist", selected);
+                startActivity(intent);
+
+
             }
         });
     }
